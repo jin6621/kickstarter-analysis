@@ -29,19 +29,19 @@
 ## Results
 ### Enlightening time. 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
- - According to our data analysis, theater campaigns lauched in May tends to have highest successful cases. This sucessful cases starts to decline over the next few months.
- - Number of canceled cases are very close over the months. January has the highest failures(7) among all the months. 
+* What are two conclusions you can draw about the Outcomes based on Launch Date?
+ * According to our data analysis, theater campaigns lauched in May tends to have highest successful cases. This sucessful cases starts to decline over the next few months.
+ * Number of canceled cases are very close over the months. January has the highest failures(7) among all the months. 
 
-- What can you conclude about the Outcomes based on Goals?
- - Analysis tells us that if an individual wants to lauch a play campaign, the optimal goal would be less than $1000, because the difference between sucesses and failures rates are the largest among all goal brackest. 
+* What can you conclude about the Outcomes based on Goals?
+ * Analysis tells us that if an individual wants to lauch a play campaign, the optimal goal would be less than $1000, because the difference between sucesses and failures rates are the largest among all goal brackest. 
 
-- What are some limitations of this dataset?
- - It likely that we do not have a complete dataset. 
- - There might been inaccurate data involved due to typo. 
+* What are some limitations of this dataset?
+ * It likely that we do not have a complete dataset. 
+ * There might been inaccurate data involved due to typo. 
 
-- What are some other possible tables and/or graphs that we could create?
- - Pledged vs Average_Donation (Relationships between how much people donate on average and pledged.)
- - Outcome vs Country (In some countries, sucess cases might be higher?)
+* What are some other possible tables and/or graphs that we could create?
+ * Pledged vs Average_Donation (Relationships between how much people donate on average and pledged.)
+ * Outcome vs Country (In some countries, sucess cases might be higher?)
 
 
